@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://obf.lat/s/VMDDN5JL2CP"))()
+loadstring(game:HttpGet("https://obf.one/s/31F2F9KZSX3"))()
